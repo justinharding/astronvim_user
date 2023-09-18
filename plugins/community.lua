@@ -5,8 +5,8 @@ return {
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
   { import = "astrocommunity.colorscheme.catppuccin" },
-  { import = "astrocommunity.completion.codeium-vim" },
-  { import = "astrocommunity.editing-support.chatgpt-nvim" },
+  -- { import = "astrocommunity.completion.codeium-vim" },
+  -- { import = "astrocommunity.editing-support.chatgpt-nvim" },
   { import = "astrocommunity.motion.flash-nvim" },
   { import = "astrocommunity.motion.mini-surround" },
   { import = "astrocommunity.programming-language-support.csv-vim" },
